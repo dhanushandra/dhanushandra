@@ -79,40 +79,34 @@ const dhanush = {
 💡 Passionate about Problem Solving & Clean Code
 🎯 Goal: Become a proficient Full Stack Developer
 ⚡ Fun fact: I debug code faster than I fix my sleep schedule! 😂
+
 ### 🛠 Tech Stack & Tools
-<div align="center">
-<h4>Programming Languages</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,js,c,html,css" />
-<h4>Frameworks & Libraries</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspring,bootstrap" />
-<h4>Databases & Tools</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,mongo,git,github,vscode,idea,arduino" />
-<h4>Currently Learning</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspring,docker,aws,postman" />
-</div>
-📊 GitHub Analytics & Insights
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddhanushandra%26layout%3Dcompact%26theme%3Dvision-friendly-dark" alt="Top Langs" />
-</div>
-<div align="center">
 
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddhanushandra%26show_icons%3Dtrue%26theme%3Dvision-friendly-dark%26count_private%3Dtrue" alt="GitHub Stats" />
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddhanushandra%26theme%3Dvision-friendly-dark" alt="Streak" />
-</div>
-🤝 Let's Connect & Collaborate!
 <div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
+  <h4>Programming Languages</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,c,html,css&theme=light" />
+  </a>
+  
+  <br/><br/>
+
+  <h4>Frameworks & Libraries</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap&theme=light" />
+  </a>
+
+  <br/><br/>
+
+  <h4>Databases & Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,git,github,vscode,idea,arduino&theme=light" />
+  </a>
+
+  <br/><br/>
+  
+  <h4>Currently Learning</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,postman&theme=light" />
+  </a>
 </div>
-<div align="center">
-<h3>Thanks for Visiting!</h3>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Made%2520with-Love-ff69b4%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Powered%2520By-Coffee-6f4e37%3Fstyle%3Dfor-the-badge" />
-</div>
+
