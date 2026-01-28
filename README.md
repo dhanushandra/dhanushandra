@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey there! I'm Vinay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hey there! I'm DHANUSH A.V <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
   <h3>
     <a href="https://git.io/typing-svg">
